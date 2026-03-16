@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "黄昏",
+  "base_artist": "茶太",
+  "createdAt": "2026-03-16T14:38:58.735387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "周传雄",
+      "has_synced": true,
+      "path": "select/01_黄昏_周传雄.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/02_黄昏_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "周傳雄",
+      "has_synced": true,
+      "path": "select/03_黄昏_周傳雄.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "周传雄",
+      "has_synced": true,
+      "path": "select/04_黄昏_周传雄.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "周传雄",
+      "has_synced": true,
+      "path": "select/05_黄昏_周传雄.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "Nicholas Teo",
+      "has_synced": true,
+      "path": "select/06_黄昏_Nicholas_Teo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "小刚",
+      "has_synced": true,
+      "path": "select/07_黄昏_小刚.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "李梦瑶",
+      "has_synced": true,
+      "path": "select/08_黄昏_李梦瑶.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "広瀬香美",
+      "has_synced": false,
+      "path": "select/09_黄昏_広瀬香美.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "張棟樑",
+      "has_synced": true,
+      "path": "select/10_黄昏_張棟樑.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/11_黄昏_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "黄昏",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/12_黄昏_大橋純子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黄昏小道",
+      "artist": "茶太@下村陽子",
+      "has_synced": false,
+      "path": "select/pl_01_黄昏小道_茶太@下村陽子.txt"
+    }
+  ]
+}
